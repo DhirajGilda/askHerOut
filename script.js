@@ -89,7 +89,7 @@ yesButton.addEventListener("click", () => {
   roundedBox.style.padding = "20px"; // Set padding for better visibility
 
   let p = document.createElement("p");
-  p.innerText = "you made the right choice 😊 \nDM me the time and venue !!!";
+  p.innerText = "        !!Yaaayyy!!     \nyou made the right choice 😊 \nDM me the time and venue !!!";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   roundedBox.appendChild(p);
