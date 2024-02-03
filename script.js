@@ -92,6 +92,7 @@ yesButton.addEventListener("click", () => {
   p.innerText = "        !!Yaaayyy!!     \nyou made the right choice 😊 \nDM me the time and venue !!!";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
+  p.style.textAlign = "center"; 
   roundedBox.appendChild(p);
 
   container.appendChild(roundedBox);
